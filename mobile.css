@@ -10,7 +10,7 @@
     .card {
         display: block;
         height: 100vh;
-        border-radius: 35px;
+        border-radius: 0;
     }
     
     .result {
