@@ -30,6 +30,9 @@ Users should be able to:
 ![image](https://github.com/graciellenascimento/html-css-results-summary/assets/71341597/35d92f4a-959e-4704-9ea1-28d22f434e69)
 
 #### Solution (mobile)
+<p align="center">
+  <img width="203" height="439" src="https://i.ibb.co/WF1BScY/127-0-0-1-5500-index-html-Pixel-5-4-1.png">
+</p>
 
 ### Links
 
