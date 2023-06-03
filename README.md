@@ -30,6 +30,9 @@ Users should be able to:
 ![image](https://github.com/graciellenascimento/html-css-results-summary/assets/71341597/35d92f4a-959e-4704-9ea1-28d22f434e69)
 
 #### Solution (mobile)
+<p align="center">
+  <img width="203" height="439" src="https://i.ibb.co/WF1BScY/127-0-0-1-5500-index-html-Pixel-5-4-1.png">
+</p>
 
 ### Links
 
@@ -55,6 +58,8 @@ With this challenge, I was able to learn about variable fonts; a concept I didn'
     font-weight: 1 999;
 }
 ```
+
+Another thing I have noticed is: the challenge was made following a desktop screen width of 1440px. However, my notebook only has 1336px. After sending the challenge I realized that some things (i.e.: sizes) weren't exactly how they should be, but without exact measurements it is diffuclt to deduce and make a clone. So it is something to take into consideration.
 
 ### Continued development
 In the future, I want and will explore a mobile-first solution, as I tried it before and was indeed helpful (although it was not used here). 
