@@ -59,8 +59,6 @@ With this challenge, I was able to learn about variable fonts; a concept I didn'
 }
 ```
 
-Another thing I have noticed is: the challenge was made following a desktop screen width of 1440px. However, my notebook only has 1336px. After sending the challenge I realized that some things (i.e.: sizes) weren't exactly how they should be, but without exact measurements it is diffuclt to deduce and make a clone. So it is something to take into consideration.
-
 ### Continued development
 In the future, I want and will explore a mobile-first solution, as I tried it before and was indeed helpful (although it was not used here). 
 
